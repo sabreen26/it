@@ -3,8 +3,11 @@ package it;
 public class it {
 
 	public static void main(String[] args) {
-System.out.println("ggjhg");
+print();
 
 	}
-
+public static void print(){
+	System.out.println("welcome");
+	
+}
 }
